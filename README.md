@@ -20,7 +20,3 @@ I'm a student at the Technical University of Munich pursuing a Master's Degree i
 - 🚀 [Stonkmaster](https://github.com/d-stoll/stonkmaster) - A discord bot for fellow apes to monitor the stock market
 - 💻 [Ansible Spark](https://github.com/d-stoll/ansible-spark) - A collection of ansible playbooks to manage a Spark cluster
 - ⛱️ [CityMatch](https://github.com/d-stoll/citymatch-backend) - The backend system for CityMatch, an app that allows you to create a city trip with simple yes/no questions.
-
-Here are some stats of me on Github 📈
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=d-stoll&count_private=true&show_icons=true&theme=merko)
