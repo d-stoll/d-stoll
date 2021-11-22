@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I'm a student at the Technical University of Munich pursuing a Master's Degree in Data Engineering & Analytics. My area of interests are distributed systems, distributed graph processing, graph partitioning and backend development. Check out some of my projects:
 
-- 🚀 Stonkmaster - A discord bot for fellow apes to monitor the stock market
-- 💻 Ansible Spark - A collection of ansible playbooks to manage a Spark cluster
-- ⛱️ CityMatch - The Backend System for CityMatch, an app that allows you to create a city trip with simple yes/no questions.
+- 🚀 [Stonkmaster](https://github.com/d-stoll/stonkmaster) - A discord bot for fellow apes to monitor the stock market
+- 💻 [Ansible Spark](https://github.com/d-stoll/ansible-spark) - A collection of ansible playbooks to manage a Spark cluster
+- ⛱️ [CityMatch](https://github.com/d-stoll/citymatch-backend) - The Backend System for CityMatch, an app that allows you to create a city trip with simple yes/no questions.
