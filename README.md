@@ -23,4 +23,4 @@ I'm a student at the Technical University of Munich pursuing a Master's Degree i
 
 Here are some stats of me on Github 📈
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=d-stoll&count_private=true&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=d-stoll&count_private=true&show_icons=true&theme=merko)
