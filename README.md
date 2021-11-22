@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi fellow developer 👋
 
 <!--
 **d-stoll/d-stoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a student at the Technical University of Munich pursuing a Master's Degree in Data Engineering & Analytics. My area of interests are distributed systems, graph processing, graph partitioning and backend development. Check out some of my projects:
+
+- 🚀 Stonkmaster - A discord bot for fellow apes to monitor the stock market
+- 💻 Ansible Spark - A collection of ansible playbooks to manage a Spark cluster
+- ⛱️ CityMatch - The Backend System for CityMatch, an app that allows you to create a city trip with simple yes/no questions.
