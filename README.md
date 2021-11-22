@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a student at the Technical University of Munich pursuing a Master's Degree in Data Engineering & Analytics. My area of interests are distributed systems, graph processing, graph partitioning and backend development. Check out some of my projects:
+I'm a student at the Technical University of Munich pursuing a Master's Degree in Data Engineering & Analytics. My area of interests are distributed systems, distributed graph processing, graph partitioning and backend development. Check out some of my projects:
 
 - 🚀 Stonkmaster - A discord bot for fellow apes to monitor the stock market
 - 💻 Ansible Spark - A collection of ansible playbooks to manage a Spark cluster
