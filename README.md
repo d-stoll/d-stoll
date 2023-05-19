@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a student at the Technical University of Munich pursuing a Master's Degree in Data Engineering & Analytics. My area of interests are graphs, graph partitioning and distributed systems. Check out some of my projects:
-
 - 🚀 [Stonkmaster](https://github.com/d-stoll/stonkmaster) - A discord bot for fellow apes to monitor the stock market
+- 🍺 [Diffpool](https://github.com/d-stoll/diffpool) - Quick implementation for PyG and DGL of Differentiable Pooling for Graph Embeddings
 - 💻 [Ansible Spark](https://github.com/d-stoll/ansible-spark) - A collection of ansible playbooks to manage a Spark cluster
+- ⚡ [Ansible DGL](https://github.com/d-stoll/ansible-dgl) - Playbooks to get started with distributed DGL
 - ⛱️ [CityMatch](https://github.com/d-stoll/citymatch-backend) - Backend for an app that allows you to create your own city trip by simply swiping left or right.
