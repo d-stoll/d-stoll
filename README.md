@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🚀 [Stonkmaster](https://github.com/d-stoll/stonkmaster) - A discord bot for fellow apes to monitor the stock market
-- 🍺 [Diffpool](https://github.com/d-stoll/diffpool) - Quick implementation for PyG and DGL of Differentiable Pooling for Graph Embeddings
+- 🍺 [Diffpool](https://github.com/d-stoll/diffpool) - Quick implementation of Differentiable Pooling for Graph Embeddings (PyG and DGL)
 - 💻 [Ansible Spark](https://github.com/d-stoll/ansible-spark) - A collection of ansible playbooks to manage a Spark cluster
 - ⚡ [Ansible DGL](https://github.com/d-stoll/ansible-dgl) - Playbooks to get started with distributed DGL
 - ⛱️ [CityMatch](https://github.com/d-stoll/citymatch-backend) - Backend for an app that allows you to create your own city trip by simply swiping left or right.
