@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 👯 [attio-js](https://github.com/d-stoll/attio-js) - A community-maintained JavaScript/TypeScript SDK for Attio
 - 🚀 [Stonkmaster](https://github.com/d-stoll/stonkmaster) - A discord bot for fellow apes to monitor the stock market
 - 🍺 [Diffpool](https://github.com/d-stoll/diffpool) - Quick implementation of Differentiable Pooling for Graph Embeddings (PyG and DGL)
 - 💻 [Ansible Spark](https://github.com/d-stoll/ansible-spark) - A collection of ansible playbooks to manage a Spark cluster
